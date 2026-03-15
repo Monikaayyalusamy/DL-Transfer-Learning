@@ -65,7 +65,6 @@ Write your own steps
 
 ## Training Loss, Validation Loss Vs Iteration Plot
 
-Include your plot here
 
 ## Confusion Matrix
 
